@@ -1,0 +1,16 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+}
+
+#pagenav {
+	text-align: center;
+}
+
+a {
+	cursor: pointer;
+}
+
+.footer {
+	text-align: center;
+}
